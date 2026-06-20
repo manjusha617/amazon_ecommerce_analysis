@@ -20,5 +20,12 @@ This project analyzes Amazon e-commerce data to identify trends in ratings, pric
 ## Dataset
 Amazon E-commerce Dataset
 
+##Dashboard
+-powerbi dashboard to create visualize
+-rating distribution
+-sales trends
+-category performance
+
+
 ## Author
 Manjusha
